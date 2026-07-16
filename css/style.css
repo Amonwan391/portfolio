@@ -217,3 +217,58 @@ nav ul{
 
     margin-bottom:40px;
 }}
+/* Page Title */
+
+.page-title{
+    text-align:center;
+    padding:60px 20px;
+}
+
+.page-title h1{
+    color:#2d6cdf;
+    font-size:42px;
+}
+
+.page-title p{
+    margin-top:10px;
+    color:#666;
+}
+
+/* Education */
+
+.education-container{
+
+    width:80%;
+    margin:40px auto;
+
+}
+
+.edu-card{
+
+    background:white;
+
+    padding:30px;
+
+    margin-bottom:25px;
+
+    border-left:6px solid #2d6cdf;
+
+    border-radius:10px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+.edu-card h2{
+
+    color:#2d6cdf;
+
+    margin-bottom:15px;
+
+}
+
+.edu-card p{
+
+    line-height:1.8;
+
+}
